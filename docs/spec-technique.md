@@ -1,12 +1,10 @@
 # VI - Homogeneous list of fields
 
-## New list
+## One Argo global index
 
-`argo-one-prof-index.csv`
+`argo-one-global-index.csv`
 
-Le fichier commence par une en-tete commentee (lignes prefixees `#`),
-alignee sur le format des index Argo actuels (`ar_index_global_prof.txt`
-etc.), suivie de la ligne d'en-tete des colonnes puis des donnees :
+The file starts with a commented header (lines prefixed with #), aligned with the format of current Argo index files (ar_index_global_prof.txt, etc.), followed by the column header line and then the data. :
 
 ```
 # Title: directory file of the Argo Global Data Assembly Center
